@@ -96,9 +96,9 @@ We experimented with various hyperparameters, such as the number of units in the
 - **Visualization:**
   - `matplotlib`
 
-## How to Use This Repository
+## Installation
 
-### Prerequisites
-
-- Python 3.x
-- Required Python libraries (listed in `requirements.txt`)
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/online-sexism-detection.git
+   cd online-sexism-detection
